@@ -1,0 +1,2 @@
+/home/ubuntu/Documents/bibliotheque/1.1.106.0/x86_64/bin/glslangValidator -V -o shaders/vert.spv shader.vert
+/home/ubuntu/Documents/bibliotheque/1.1.106.0/x86_64/bin/glslangValidator -V -o shaders/frag.spv shader.frag
